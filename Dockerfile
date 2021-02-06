@@ -21,4 +21,4 @@ WORKDIR ${JENKINS_HOME}
 EXPOSE 8080 ${JENKINS_SLAVE_AGENT_PORT}
 
 # Start Jenkins
-CMD ["java -jar /opt/jenkins.war"]
+CMD ["java", "-jar", "/opt/jenkins.war"]
