@@ -27,4 +27,4 @@ this will automatically create a 'jenkins' volume on docker host, that will surv
 
 ---
 
-This image is available on [GitHub](https://github.com/wouterds/rpi-jenkins) & [DockerHub](https://hub.docker.com/r/wouterds/rpi-jenkins).
+This image is available on [GitHub](https://github.com/gajjuCoderBoi/docker-rpi-jenkins) & [DockerHub](https://hub.docker.com/r/ghazanfar9131/docker-rpi-jenkins).

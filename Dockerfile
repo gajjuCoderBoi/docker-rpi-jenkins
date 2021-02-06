@@ -1,4 +1,4 @@
-FROM balenalib/raspberry-pi-debian-openjdk:latest
+FROM balenalib/raspberry-pi-debian-openjdk:8-stretch
 MAINTAINER Mohammad Javed <ghazanfar9131@gmail.com>
 
 # Jenkins version
